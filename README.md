@@ -1,6 +1,3 @@
-# rust_example
-Rust project for beginning course
-
 ## Setup
 Go to Getting started page on Rust official website https://www.rust-lang.org/learn/get-started
 Install Rust installer and version management tool
